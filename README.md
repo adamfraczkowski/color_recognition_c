@@ -1,4 +1,4 @@
-color_recognition_c
+# color_recognition_c
 
 
 Ok, więc jest to przykładowy projekt w C# zawiera:
