@@ -114,6 +114,7 @@ namespace colors_recognition
         {
 
             this.switchState();
+            this.textBox1.Clear();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
